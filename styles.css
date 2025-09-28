@@ -1,0 +1,62 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: rgb(177, 81, 81); 
+    color: #ffd5d5;
+    text-align: center;
+  }
+  
+  .container {
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 800px;
+    background-color: #3d870f;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  header h1 {
+    font-size: 3em;
+    color: #c80630; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  .carousel-container {
+    max-width: 600px; 
+    margin: 20px auto; 
+    text-align: center; 
+  }
+
+  .gif {
+
+    margin: auto;
+  }
+  
+  .carousel-item img {
+    max-width: 100%;
+    height: auto;
+    display: inline-block; 
+    margin: 0 auto; 
+  }
+
+  .carousel-inner img {
+    height: auto; 
+    object-fit: cover;
+}
+
+  .mensaje p {
+    font-size: 1.2em;
+    color: white;
+  }
+  
+  .galeria img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
+    margin: 10px;
+  }
+  
+  .tarjeta p {
+    font-style: italic;
+    font-size: 1.4em;
+  }
+  
